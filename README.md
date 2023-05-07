@@ -1,6 +1,6 @@
 # WubWaves
-Wavey and circular audio visualizer with dynamic coloring based on emotional sentiment analysis
-## TODO:
+**Wavey and circular audio visualizer with dynamic coloring based on emotional sentiment analysis**
+### TODO:
 1. Make a flask app
 2. Connect Spotify account using their API
 3. Get current song's lyrics (use lyric api if necessary)
